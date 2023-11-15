@@ -14,4 +14,4 @@
      </tr>
   </table>
 
-O sistema "AgendamentoServico" é uma aplicação backend simples que oferece funcionalidades de agendamento para diversos serviços, como consultas médicas e reservas de restaurante. Desenvolvido em Java com Spring Boot, o sistema utiliza uma arquitetura baseada em API REST, proporcionando operações CRUD para clientes, serviços e agendamentos. As entidades são persistidas em um banco de dados através do Hibernate. Essa implementação destina-se a fins de aprendizado e demonstra a estrutura básica de um sistema de agendamento sem uma interface gráfica.
+The "AgendamentoServico" system is a simple backend application that offers scheduling functionalities for various services, such as medical appointments and restaurant reservations. Developed in Java with Spring Boot, the system uses an architecture based on REST API, providing CRUD operations for clients, services and schedules. Entities are persisted in a database through Hibernate. This implementation is intended for learning purposes and demonstrates the basic structure of a scheduling system.
