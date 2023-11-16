@@ -1,4 +1,4 @@
-# Agendamentos de Serviços
+# Agendamento de Serviços
 > ## Status: Devoloping ⚠️
 > Developed by:
 <table>
