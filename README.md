@@ -1,5 +1,5 @@
 # Agendamento de Serviços
-> ## Status: Devoloping ⚠️
+> ## Status: Developing ⚠️
 > Developed by:
 <table>
   <tr>
